@@ -1,0 +1,22 @@
+{
+  "name": "mst",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.10.3",
+    "@babel/preset-env": "^7.10.3",
+    "@types/jest": "^26.0.0",
+    "babel-jest": "^26.0.1",
+    "eslint": "^7.3.0",
+    "eslint-plugin-jest": "^23.16.0",
+    "jest": "^26.0.1",
+    "mobx": "^5.15.4",
+    "mobx-state-tree": "^3.16.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "plugins": ["jest"],
+  "parserOptions": {
+      "ecmaVersion": 6,
+      "sourceType": "module",
+      "ecmaFeatures": {
+          "jsx": true
+      }
+  },
+  "env": {
+    "jest": true
+  },
+  "rules": {
+      "semi": "error"
+  }
+}
